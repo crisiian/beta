@@ -1,13 +1,13 @@
 '''
 
 Date: 06-jun-2025
-dev: carolina Piarpuzan 
+dev: cristian diaz
 '''
 
 data1=10
 data2=3,50
-data3="Carolina"
-data4="Piarpuzan"
+data3="cristian"
+data4="diaz"
 data5= '''
 Hello people,we are learnig python
 '''
